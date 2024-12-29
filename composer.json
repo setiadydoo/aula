@@ -1,0 +1,12 @@
+{
+    "name": "aula/booking",
+    "description": "Sistem Peminjaman Ruangan",
+    "authors": [
+        {
+            "name": "Admin"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.8"
+    }
+}
